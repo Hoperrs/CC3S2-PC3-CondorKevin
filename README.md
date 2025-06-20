@@ -1,9 +1,11 @@
 # PC3 Proyecto 2: Plataforma de Control de Calidad de Codigo
-**Nombres**: Kevin Douglas
-**Apellidos**: Condor Chavez
-**Email:**: kcondorc@uni.pe
+- **Nombres**: Kevin Douglas
+- **Apellidos**: Condor Chavez
+- **Email:**: kcondorc@uni.pe
 
 **URL del repositorio grupal**: https://github.com/Ox-Chema-xO/Plataforma-de-control-de-calidad-de-codigo-/tree/main
+
+---
 
 ## Sprint 1
 Me encargué de:
